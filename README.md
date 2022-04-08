@@ -79,5 +79,9 @@ if option in ("1", "2", "3", "4"):
 else:
     print("You didn't select a number 1-4. Try again.")
 ```  
+Here's a screenshot of my output:  
+![image](https://github.com/Phillipluck/Python_Calculator/blob/main/Screenshots/output_screenie.png)  
+
+
 
 All in all, I'm pretty happy with my progress. Coding is making me think in a way that I never have before...  A much more logical, top/down way of thinking.  Still so much to learn, but I'm having fun!  I wish I had started learning sooner.
